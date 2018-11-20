@@ -87,8 +87,8 @@ body, div, input, textarea {
     border-radius: 2px;
     transition: border-color 0.3s ease-in-out;
 }
-.contact-form__field:focus,
-.contact-form__field:active {
+.contact-form__field:active,
+.contact-form__field:focus {
     border: 1px solid #f4a0a3;
     outline: none;
 }
@@ -119,9 +119,9 @@ body, div, input, textarea {
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
 }
-.contact-form__button:hover,
 .contact-form__button:active,
-.contact-form__button:focus {
+.contact-form__button:focus,
+.contact-form__button:hover {
     background-color: #333;
 }
 
