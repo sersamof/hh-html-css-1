@@ -111,6 +111,7 @@ body, div, input, textarea {
 .contact-form__button {
     height: 50px;
     padding: 15px;
+    border: none;
     border-radius: 2px;
     background: #FF4C5A;
     font-size: 18px;
