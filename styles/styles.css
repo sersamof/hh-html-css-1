@@ -62,7 +62,7 @@ body, div, input, textarea {
     border: 1px solid #e9e9e9;
     border-radius: 50%;
     background: url(../images/letter.png) center no-repeat #fff;
-    content: ".";
+    content: " ";
 }
 
 .contact-form__title {
