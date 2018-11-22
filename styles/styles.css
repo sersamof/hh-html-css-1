@@ -29,7 +29,7 @@ body, div, input, textarea {
 
 
 /* container */
-.fullscreen_wrapper {
+.fullscreen-wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,7 +37,7 @@ body, div, input, textarea {
     background-color: #dedede;
 }
 
-.form_wrapper {
+.form-wrapper {
     width: 800px;
     margin-top: 90px;
 }
