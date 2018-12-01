@@ -24,6 +24,7 @@ body, div, input, textarea {
 }
 
 .align-right {
+    display: flex;
     justify-content: flex-end;
 }
 
